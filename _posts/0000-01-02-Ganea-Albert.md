@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Bruh
+El sussy baka
 Use the left arrow to go back!
